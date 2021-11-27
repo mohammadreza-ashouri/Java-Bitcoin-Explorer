@@ -7,3 +7,5 @@ Then, download SLF4J (https://www.slf4j.org/download.html), extract it, and get 
 Add these two jar files to your classpath and you are ready to go.
 
 Let’s start from a simple example: compute (and then plot) the number of transactions per day. This is the code, heavily commented, just go through it.
+
+![alt text](https://github.com/mohammadreza-ashouri/Java-Bitcoin-Explorer/blob/main/TxSize.png?raw=true)
